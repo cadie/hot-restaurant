@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+body {
+	font-family: 'Helvectica', sans-serif;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.h1 {
+    font-size: 70px;
+    text-align: center;
+}
+
+.h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.buttons {
+    text-align: center;
+    margin-top: 40px;
+}
